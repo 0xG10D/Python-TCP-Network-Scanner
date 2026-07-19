@@ -1,0 +1,2 @@
+# scanner.py uses only the Python standard library.
+# No packages are required for the main scanner.

@@ -1,0 +1,2 @@
+# Development-only quality tooling. The scanner itself has no package dependencies.
+ruff==0.15.22

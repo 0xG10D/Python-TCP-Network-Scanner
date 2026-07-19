@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.xlsx
+*.csv
+!sample-output/scan_results.example.csv
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Test and coverage artifacts
+.coverage
+coverage.xml
+*.cover
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Historical originals are retained locally but must not be published.
+archive/original-files/*
+!archive/original-files/README.md

@@ -1,0 +1,2 @@
+# Required only for examples/nmap_scanner.py.
+python-nmap==0.7.1
